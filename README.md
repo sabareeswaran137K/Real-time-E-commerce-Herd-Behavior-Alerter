@@ -5,6 +5,7 @@ A modern full-stack analytics application that visualizes customer behavior patt
 This project demonstrates advanced data visualization, frontend development, and API integration skills through a beautiful and responsive gradient purple analytics dashboard.
 
 ### 2. Project Structure
+...
 herd-behaviour-dashboard/
 ├── backend/
 │   ├── app.py                 # Flask backend API serving fake dataset
@@ -28,6 +29,7 @@ herd-behaviour-dashboard/
 │   └── postcss.config.js
 │
 └── README.md
+...
 
 ### 3.🧩 Backend (Flask API + Fake Dataset)
 
